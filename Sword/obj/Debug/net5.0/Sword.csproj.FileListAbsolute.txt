@@ -1,0 +1,16 @@
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\Sword.csproj.AssemblyReference.cache
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\Sword.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\Sword.AssemblyInfoInputs.cache
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\Sword.AssemblyInfo.cs
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\Sword.csproj.CoreCompileInputs.cache
+D:\practice\csharpPractice\Sword\Sword\bin\Debug\net5.0\Sword.exe
+D:\practice\csharpPractice\Sword\Sword\bin\Debug\net5.0\Sword.deps.json
+D:\practice\csharpPractice\Sword\Sword\bin\Debug\net5.0\Sword.runtimeconfig.json
+D:\practice\csharpPractice\Sword\Sword\bin\Debug\net5.0\Sword.runtimeconfig.dev.json
+D:\practice\csharpPractice\Sword\Sword\bin\Debug\net5.0\Sword.dll
+D:\practice\csharpPractice\Sword\Sword\bin\Debug\net5.0\ref\Sword.dll
+D:\practice\csharpPractice\Sword\Sword\bin\Debug\net5.0\Sword.pdb
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\Sword.dll
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\ref\Sword.dll
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\Sword.pdb
+D:\practice\csharpPractice\Sword\Sword\obj\Debug\net5.0\Sword.genruntimeconfig.cache
